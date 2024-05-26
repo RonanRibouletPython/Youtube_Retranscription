@@ -1,0 +1,10 @@
+# Youtube transcript API
+youtube-transcript-api
+# Setup easy web app
+streamlit
+# Google GenAI
+google-generativeai
+# Retrieve the API Key
+python-dotenv
+# Paths
+pathlib
